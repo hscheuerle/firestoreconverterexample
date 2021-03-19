@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "harry-firebase": {
+      "hosting": {
+        "firestoreconverterexample": [
+          "harry-firebase"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "harry-firebase"
+  }
+}
